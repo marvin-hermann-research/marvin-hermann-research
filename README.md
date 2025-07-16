@@ -39,6 +39,7 @@ I’m deeply immersed in advancing my skills with ROS2 and Python, building robu
 
 ## 🗃 Legacy Projects
 These projects are personal and academic projects of mine from earlier stages of my journey.
+
 Explore the archive here: [archive](https://github.com/marvin-hermann-research/legacy-projects)
 
 ---
@@ -47,6 +48,7 @@ Explore the archive here: [archive](https://github.com/marvin-hermann-research/l
 
 I maintain weekly logs documenting my learning process, coding sessions, problem-solving experiences, and next steps.  
 They serve both as personal reflection and as transparent insight into my development path.  
+
 Find them here: [weekly-logs](https://github.com/marvin-hermann-research/weekly-logs)
 
 ---
