@@ -19,17 +19,21 @@ This repository serves as a central hub to document my ongoing learning journey,
 
 ## 📚 Masterposts
 
-These are living documents that I continuously update to reflect my growing expertise.  
+These are living documents that I continuously update to reflect my growing expertise.
+
+[Masterposts Overview](https://github.com/marvin-hermann-research/masterposts).  
+
 Examples include:  
-- [ROS Masterpost](link-to-your-ros-masterpost)  
-- [Python Masterpost](link-to-your-python-masterpost)
+- [ROS Masterpost](https://github.com/marvin-hermann-research/masterposts/blob/main/ros2_engineering_notes.md)  
+- [Python Masterpost](https://github.com/marvin-hermann-research/masterposts/blob/main/python_for_robotic_engineering.md)
 
 ---
 
 ## 🤖 Current Learning Project
 
-My ongoing ROS learning project focuses on robotics simulation and control, aiming to deepen my practical understanding of ROS2, Gazebo, and robot kinematics.  
-Check it out here: [ros-learning-project](link-to-your-ros-learning-project)
+I’m deeply immersed in advancing my skills with ROS2 and Python, building robust robotic systems through modular nodes and behavior trees. My current work spans sensor integration, autonomous control, and behavior orchestration.
+
+[Current Projects Overview](https://github.com/marvin-hermann-research/current-projects)
 
 ---
 
@@ -37,14 +41,14 @@ Check it out here: [ros-learning-project](link-to-your-ros-learning-project)
 
 I maintain weekly logs documenting my learning process, coding sessions, problem-solving experiences, and next steps.  
 They serve both as personal reflection and as transparent insight into my development path.  
-Find them here: [weekly-logs](link-to-your-weekly-logs)
+Find them here: [weekly-logs](https://github.com/marvin-hermann-research/weekly-logs)
 
 ---
 
 ## 📬 Contact
 
 I am open to research collaborations, HiWi opportunities, and internships in AI and robotics.  
-Feel free to reach out via email: `your.email@example.com`
+Feel free to reach out via the email listed on my profile
 
 ---
 
