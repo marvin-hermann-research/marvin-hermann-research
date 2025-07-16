@@ -29,11 +29,17 @@ Examples include:
 
 ---
 
-## 🤖 Current Learning Project
+## 🤖 Current Learning Projects
 
 I’m deeply immersed in advancing my skills with ROS2 and Python, building robust robotic systems through modular nodes and behavior trees. My current work spans sensor integration, autonomous control, and behavior orchestration.
 
 [Current Projects Overview](https://github.com/marvin-hermann-research/current-projects)
+
+---
+
+## 🗃 Legacy Projects
+These projects are personal and academic projects of mine from earlier stages of my journey.
+Explore the archive here: [archive](https://github.com/marvin-hermann-research/legacy-projects)
 
 ---
 
