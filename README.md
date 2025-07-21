@@ -27,8 +27,8 @@ These are living documents that I continuously update to reflect my growing expe
 [Masterposts Overview](https://github.com/marvin-hermann-research/masterposts).  
 
 Examples include:  
-- [ROS Masterpost](https://github.com/marvin-hermann-research/masterposts/blob/main/ros2_engineering_notes.md)  
-- [Python Masterpost](https://github.com/marvin-hermann-research/masterposts/blob/main/python_for_robotic_engineering.md)
+- [ROS Masterpost – A Complete Synthesis on Designing Interactive Systems with ROS2](https://github.com/marvin-hermann-research/masterposts/blob/main/ros2_engineering_notes.md)  
+- [Python Masterpost – A Practical Guide to Writing Clean and Maintainable Code](https://github.com/marvin-hermann-research/masterposts/blob/main/python_for_robotic_engineering.md)
 
 ---
 
@@ -59,7 +59,7 @@ Find them here: [weekly-logs](https://github.com/marvin-hermann-research/weekly-
 ## Contact
 
 I am open to research collaborations, HiWi opportunities, and internships in AI and robotics.  
-Feel free to reach out via the email listed on my profile
+If you are interested in working together, feel free to reach out via the email listed on my profile.
 
 ---
 
