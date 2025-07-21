@@ -2,7 +2,10 @@
 
 **Computer Science Student @ KIT | Focus: AI, Robotics, ROS & Python**
 
-Welcome to my research portfolio.  
+*I aspire to explore how machines might one day connect with humans not just through logic, but through empathy and emotion.*
+
+Welcome to my research portfolio.
+
 This repository serves as a central hub to document my ongoing learning journey, projects, and accumulated knowledge in the fields of robotics and artificial intelligence.
 
 ---
