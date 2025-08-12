@@ -13,10 +13,10 @@ This repository serves as a central hub to document my ongoing learning journey,
 ## Overview
 
 ### Project Categories
-- **Legacy Projects:** Archived older projects including game development and other software experiments.  
 - **Current Projects:** Active repositories, including my ongoing ROS learning project.  
 - **Weekly Logs:** Regular updates detailing progress, challenges, and reflections.  
 - **Masterposts:** In-depth markdown articles compiling my knowledge on key topics like ROS and Python.
+- **Legacy Projects:** Archived older projects including game development and other software experiments.  
 
 ---
 
@@ -40,19 +40,19 @@ I’m deeply immersed in advancing my skills with ROS2 and Python, building robu
 
 ---
 
-## Legacy Projects
-These projects are personal and academic projects of mine from earlier stages of my journey.
-
-Explore the archive here: [archive](https://github.com/marvin-hermann-research/legacy-projects)
-
----
-
 ## Weekly Logs
 
 I maintain weekly logs documenting my learning process, coding sessions, problem-solving experiences, and next steps.  
 They serve both as personal reflection and as transparent insight into my development path.  
 
 Find them here: [weekly-logs](https://github.com/marvin-hermann-research/weekly-logs)
+
+---
+
+## Legacy Projects
+These projects are personal and academic projects of mine from earlier stages of my journey.
+
+Explore the archive here: [archive](https://github.com/marvin-hermann-research/legacy-projects)
 
 ---
 
