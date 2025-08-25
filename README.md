@@ -34,7 +34,9 @@ Examples include:
 
 ## Current Learning Projects
 
-I’m deeply immersed in advancing my skills with ROS2 and Python, building robust robotic systems through modular nodes and behavior trees. My current work spans sensor integration, autonomous control, and behavior orchestration.
+I am actively developing modular robotic systems using ROS2 and Python, with a focus on sensor integration, autonomous control, and behavior orchestration through Behavior Trees. These projects serve as practical explorations of robotics architecture.
+
+The latest project is a [Modular Behaviour Tree Architecture for ROS2](https://github.com/marvin-hermann-research/ros2-architecture-lab.git), demonstrating a research-driven, extensible framework for robot locomotion.
 
 [Current Projects Overview](https://github.com/marvin-hermann-research/current-projects)
 
