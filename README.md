@@ -13,9 +13,9 @@ This repository serves as a central hub to document my ongoing learning journey,
 ## Overview
 
 ### Project Categories
-- **Current Projects:** Active repositories, including my ongoing ROS learning project.  
+- **Current Projects:** Active repositories, including my ongoing ROS2 projects.  
 - **Weekly Logs:** Regular updates detailing progress, challenges, and reflections.  
-- **Masterposts:** In-depth markdown articles compiling my knowledge on key topics like ROS and Python.
+- **Masterposts:** In-depth markdown articles compiling my knowledge on key topics like ROS2 and Python.
 - **Legacy Projects:** Archived older projects including game development and other software experiments.  
 
 ---
@@ -38,7 +38,7 @@ I am actively developing modular robotic systems using ROS2 and Python, with a f
 
 The latest project is a [Modular Behaviour Tree Architecture for ROS2](https://github.com/marvin-hermann-research/ros2-architecture-lab.git), demonstrating a research-driven, extensible framework for robot locomotion.
 
-[Current Projects Overview](https://github.com/marvin-hermann-research/current-projects)
+Check them all out: [Current Projects Overview](https://github.com/marvin-hermann-research/current-projects)
 
 ---
 
@@ -47,7 +47,7 @@ The latest project is a [Modular Behaviour Tree Architecture for ROS2](https://g
 I maintain weekly logs documenting my learning process, coding sessions, problem-solving experiences, and next steps.  
 They serve both as personal reflection and as transparent insight into my development path.  
 
-Find them here: [weekly-logs](https://github.com/marvin-hermann-research/weekly-logs)
+Find them here: [Weekly Logs](https://github.com/marvin-hermann-research/weekly-logs)
 
 ---
 
