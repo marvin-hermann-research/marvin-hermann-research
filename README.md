@@ -13,10 +13,26 @@ This repository serves as a central hub to document my ongoing learning journey,
 ## Overview
 
 ### Project Categories
+
+- **Major Project Lines:** Long-term research projects, intended to be developed iteratively over years.
 - **Current Projects:** Active repositories, including my ongoing ROS2 projects.  
 - **Weekly Logs:** Regular updates detailing progress, challenges, and reflections.  
 - **Masterposts:** In-depth markdown articles compiling my knowledge on key topics like ROS2 and Python.
 - **Legacy Projects:** Archived older projects including game development and other software experiments.  
+
+---
+
+### Major Project Lines
+
+These are my primary, long-term research directions, designed to be developed iteratively over multiple years. They form the backbone of my work in robotics and AI, providing continuity and focus across experimental, conceptual, and applied projects.
+
+I am currently developing two core research series:
+
+[AETHER Series](https://github.com/marvin-hermann-research/aether-framework-overview.git):
+Modular software framework for robotic locomotion, task management, and sensor-actuator integration. Focused on bipedal and quadrupedal robots, behaviour trees, and scientific reproducibility.
+
+[ARTIFICE Series](https://github.com/marvin-hermann-research/artifice-series-overview.git):
+Modular quadrupedal robotic platforms, designed for autonomous mobility, terrain adaptation, and future emotional AI integration. Serves as a physical embodiment of advanced robotic research.
 
 ---
 
@@ -36,7 +52,7 @@ Examples include:
 
 I am actively developing modular robotic systems using ROS2 and Python, with a focus on sensor integration, autonomous control, and behavior orchestration through Behavior Trees. These projects serve as practical explorations of robotics architecture.
 
-The latest project is a [Modular Behaviour Tree Architecture for ROS2](https://github.com/marvin-hermann-research/ros2-architecture-lab.git), demonstrating a research-driven, extensible framework for robot locomotion.
+The latest project is a [AETHER I - Modular Behaviour Tree Architecture for ROS2](https://github.com/marvin-hermann-research/ros2-architecture-lab.git), demonstrating a research-driven, extensible framework for robot locomotion.
 
 Check them all out: [Current Projects Overview](https://github.com/marvin-hermann-research/current-projects)
 
