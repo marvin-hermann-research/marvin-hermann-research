@@ -28,10 +28,10 @@ These are my primary, long-term research directions, designed to be developed it
 
 I am currently developing two core research series:
 
-[AETHER Series](https://github.com/marvin-hermann-research/aether-framework-overview.git):
+- [AETHER Series](https://github.com/marvin-hermann-research/aether-framework-overview.git):
 Modular software framework for robotic locomotion, task management, and sensor-actuator integration. Focused on bipedal and quadrupedal robots, behaviour trees, and scientific reproducibility.
 
-[ARTIFICE Series](https://github.com/marvin-hermann-research/artifice-series-overview.git):
+- [ARTIFICE Series](https://github.com/marvin-hermann-research/artifice-series-overview.git):
 Modular quadrupedal robotic platforms, designed for autonomous mobility, terrain adaptation, and future emotional AI integration. Serves as a physical embodiment of advanced robotic research.
 
 ---
