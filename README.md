@@ -22,7 +22,7 @@ This repository serves as a central hub to document my ongoing learning journey,
 
 ---
 
-### Major Project Lines
+## Major Project Lines
 
 These are my primary, long-term research directions, designed to be developed iteratively over multiple years. They form the backbone of my work in robotics and AI, providing continuity and focus across experimental, conceptual, and applied projects.
 
